@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+test.db
+test_rag.db
+test_alembic.db
+storage/
+chroma_data/
+.env    
