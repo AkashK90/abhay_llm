@@ -10,3 +10,7 @@ test_alembic.db
 storage/
 chroma_data/
 .env    
+.db
+venv/
+tmp/
+.env.example
